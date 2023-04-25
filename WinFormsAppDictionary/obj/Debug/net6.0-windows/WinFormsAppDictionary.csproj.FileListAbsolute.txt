@@ -1,0 +1,17 @@
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\bin\Debug\net6.0-windows\WinFormsAppDictionary.exe
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\bin\Debug\net6.0-windows\WinFormsAppDictionary.deps.json
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\bin\Debug\net6.0-windows\WinFormsAppDictionary.runtimeconfig.json
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\bin\Debug\net6.0-windows\WinFormsAppDictionary.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\bin\Debug\net6.0-windows\WinFormsAppDictionary.pdb
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.csproj.AssemblyReference.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.Form1.resources
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.csproj.GenerateResource.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.AssemblyInfoInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.AssemblyInfo.cs
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.csproj.CoreCompileInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\refint\WinFormsAppDictionary.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.pdb
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\WinFormsAppDictionary.genruntimeconfig.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\WinFormsAppDictionary\obj\Debug\net6.0-windows\ref\WinFormsAppDictionary.dll

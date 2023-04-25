@@ -1,0 +1,15 @@
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.exe
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+C:\Users\josel\Documents\Github\Csharp---practice\Dictionary\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
